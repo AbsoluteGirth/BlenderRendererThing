@@ -1,0 +1,10 @@
+sg.theme('Dark')
+sg.theme_background_color("#0f0f0f")
+sg.theme_text_element_background_color("#0f0f0f")
+sg.theme_element_background_color("#0f0f0f")
+images
+#666666
+white
+Themes/Dark/button.png
+Themes/Dark/button_edit.png
+Themes/Dark/Button_render.png

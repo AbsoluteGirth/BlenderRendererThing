@@ -1,0 +1,10 @@
+sg.theme("GrayGrayGray")
+sg.theme_background_color("#e6e6e6")
+sg.theme_text_element_background_color("#e6e6e6")
+sg.theme_element_background_color("#e6e6e6")
+images
+#cccccc
+black
+Themes/Light/button light.png
+Themes/Light/button_edit light.png
+Themes/Light/Button_render light.png
