@@ -1,0 +1,9 @@
+Version 2.0 
+
+- Completely redesigned UI
+- Made everything pretty
+- Added themes
+- Added save and open session functionality
+- Run command now runs in GUI, not a console in sight
+- Added abilty to change blender path
+- Added ability to remove files after added to queue
